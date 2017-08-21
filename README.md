@@ -1,2 +1,3 @@
 # hello-world
-start to use github
+Hi Humans!
+Sherry here. I like coding~
